@@ -45,7 +45,7 @@ df['aws_yn'] = df['Job Description'].apply(lambda x: 1 if 'aws' in x.lower() els
 #excel
 df['excel_yn'] = df['Job Description'].apply(lambda x: 1 if 'excel' in x.lower() else 0)
 
-df.to_csv('salary_data_cleaned', index= False)
+df.to_csv('salary_data_cleaned.csv', index= False)
 
 
 
