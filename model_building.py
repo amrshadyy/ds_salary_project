@@ -12,7 +12,7 @@ import numpy as np
 
 df = pd.read_csv('eda_data.csv')
 
-# Fill NaN with mean age
+# Fill NaN with -1
 df.fillna(-1, inplace=True)
 
 # choose relevant columns
