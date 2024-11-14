@@ -6,12 +6,12 @@
 * Productionize our model using Flask API.
 
 ## Code and Resources
-### Python Version: 3.11
-### Packages: pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle
-### For Web Framework Requirements: pip install -r requirements.txt
-### Instructor Github :https://github.com/PlayingNumbers/ds_salary_proj/tree/master
-### Scraper Article: https://medium.com/@arjunsatishwork/making-a-glassdoor-web-scraper-with-python-and-selenium-2024-ed89ec5d3c61
-### Scraper Github: https://github.com/ArjunxyzSatish/GlassdoorScraper/tree/main
+** Python Version: ** 3.11
+** Packages: ** pandas, numpy, sklearn, matplotlib, seaborn, selenium, flask, json, pickle
+** For Web Framework Requirements: ** pip install -r requirements.txt
+** Instructor Github : ** https://github.com/PlayingNumbers/ds_salary_proj/tree/master
+** Scraper Article: ** https://medium.com/@arjunsatishwork/making-a-glassdoor-web-scraper-with-python-and-selenium-2024-ed89ec5d3c61
+** Scraper Github: ** https://github.com/ArjunxyzSatish/GlassdoorScraper/tree/main
 
 
 
