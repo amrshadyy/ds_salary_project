@@ -1,5 +1,4 @@
-ds_salary_project
-# ds_salary_project
+# Data Science Salary Estimator: Project Overview
 
 ## resources
 https://github.com/PlayingNumbers/ds_salary_proj/tree/master
