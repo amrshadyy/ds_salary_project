@@ -11,7 +11,10 @@
 **For Web Framework Requirements:** ```pip install -r requirements.txt```                                                                                                                                                                        
 **Instructor Github:** https://github.com/PlayingNumbers/ds_salary_proj/tree/master                                                                                                                                                             
 **Scraper Article:** https://medium.com/@arjunsatishwork/making-a-glassdoor-web-scraper-with-python-and-selenium-2024-ed89ec5d3c61                                                                                                               
-**Scraper Github:** https://github.com/ArjunxyzSatish/GlassdoorScraper/tree/main                                                                                                                                                                 
+**Scraper Github:** https://github.com/ArjunxyzSatish/GlassdoorScraper/tree/main
+
+## YouTube Project Walk-Through
+https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t                                                                                                                                                                 
 
 
 
