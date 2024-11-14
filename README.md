@@ -16,7 +16,20 @@
 ## YouTube Project Walk-Through
 https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t                                                                                                                                                                 
 
-
+## Web Scraping
+Scraped 860 jobs with the following features:
+* Job Title
+* Salary Estimate
+* Job Description
+* Rating
+* Company Name
+* Location
+* Size
+* Year Founded
+* Type of ownership
+* Industry
+* Sector
+* Revenue
 
 
 
