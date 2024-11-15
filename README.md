@@ -53,6 +53,10 @@ Following the scraping process, the data is cleaned to be usable for exploratory
 * Made bar charts for categorical data
 * Pivot tables were made to compare average salary to different categories accordingly
 
+![alt text](https://github.com/amrshadyy/ds_salary_project/blob/master/Correlation_Plot.png)
+![alt text](https://github.com/amrshadyy/ds_salary_project/blob/master/BarChart.png)
+![alt text](https://github.com/amrshadyy/ds_salary_project/blob/master/Pivot_Table.png)
+
 
 
 
