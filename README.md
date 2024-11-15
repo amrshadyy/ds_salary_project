@@ -44,8 +44,16 @@ Following the scraping process, the data is cleaned to be usable for exploratory
    * Spark
    * AWS
    * Excel
-* Made columns for simplified job title and seniority level
-* Made column for description length
+
+## EDA
+* Feature engineering for some attributes that were not transformed during data cleaning
+ * Made columns for simplified job title and seniority level
+ * Made column for description length
+* Plotted histograms, box plots and correlation plots for numerical data
+* Made bar charts for categorical data
+* Pivot tables were made to compare average salary to different categories accordingly
+
+
 
 
 
