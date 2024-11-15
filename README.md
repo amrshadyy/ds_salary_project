@@ -26,10 +26,27 @@ Scraped 860 jobs with the following features:
 * Location
 * Size
 * Year Founded
-* Type of ownership
+* Type of Ownership
 * Industry
 * Sector
 * Revenue
+
+## Data Cleaning
+Following the scraping process, the data is cleaned to be usable for exploratory analysis and model building. The following changes were made:
+* Parsing numeric data out of salary
+* Made columns[hourly,yearly] to differentiate between salary and hourly wage
+* Removed rows with no salary given
+* Made a new column for state of each company
+* Transformed the founded date into company age
+* Made columns for if different skills were listed in the job description:
+   * Python
+   * R
+   * Spark
+   * AWS
+   * Excel
+* Made columns for simplified job title and seniority level
+* Made column for description length
+
 
 
 
