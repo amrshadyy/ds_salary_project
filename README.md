@@ -57,6 +57,24 @@ Following the scraping process, the data is cleaned to be usable for exploratory
 ![alt text](https://github.com/amrshadyy/ds_salary_project/blob/master/BarChart.png)
 ![alt text](https://github.com/amrshadyy/ds_salary_project/blob/master/Pivot_Table.png)
 
+## Model Building
+First thing I did was replacing 'Nan' values with '-1- to be able to work with the data. Then, categorical variables were transformed into dummy data to prepare it for model building. The data was also split into a train-test split.
+Three different models were built 
+* Multiple Linear Regression : Baseline for the model
+* Lasso Regression : Normalizing sparse data for a more accurate approach
+* Random Forest : Handling the sparse data as well
+I tuned the model using GridSearchCV and performed some model test ensembles as well.
+
+## Model Performance
+As seen below, Random Forest model far outperformed the other approaches on the test and validation sets.
+* Random Forest : MAE = 3.90
+* Linear Regression : MAE = 16.05
+* Lasso Regression : MAE = 16.13
+
+## Productionization
+In this step, a flask API endpoint is built that was hosted on a local webserver. The API endpoint takes in a request with a list of values from a job listing and returns an estimated salary.
+
+ 
 
 
 
