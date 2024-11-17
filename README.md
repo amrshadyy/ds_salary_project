@@ -1,7 +1,7 @@
 # Data Science Salary Estimator: Project Overview
 * Created a tool that estimates the average salary for data scientists with a (MAE ~ $ 3k) to increase awareness for job-seekers.
 * Scraped over 800 jobs from glassdoor using selenium and python.
-* Data celaning and feature engineering of variables(Salary Estimate, State, Job Description,...etc).
+* Data cleaning and feature engineering of variables(Salary Estimate, State, Job Description,...etc).
 * Built machine learning models(Linear, Lasso, RandomForest) and optimized them using GridSearchCV to attain best results.
 * Productionize our model using Flask API.
 
